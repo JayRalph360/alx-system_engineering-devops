@@ -1,3 +1,3 @@
-#0x01. Shell, permissions
+##0x01. Shell, permissions
 
-A description of shell scripts on permission
+A description of shell scripts on permissions.
