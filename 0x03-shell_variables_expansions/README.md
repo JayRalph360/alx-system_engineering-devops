@@ -1,6 +1,6 @@
 # Shell, init files, variables and expansions
 
-##Init files
+## Init files
 When invoked interactively with the --login option or when invoked as sh,
 Bash reads the /etc/profile instructions. These usually set the shell variables
 PATH, USER, MAIL, HOSTNAME and HISTSIZE.
